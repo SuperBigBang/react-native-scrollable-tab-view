@@ -29,13 +29,16 @@
   },
   "homepage": "https://github.com/SuperBigBang/react-native-scrollable-tab-view#readme",
   "dependencies": {
-    "create-react-class": "15.6.2",
+    "create-react-class": "^15.7.0",
     "prop-types": "^15.6.0",
     "react-native-pager-view": "6.1.0-rc.1",
-    "react-timer-mixin": "0.13.4"
+    "react-timer-mixin": "0.13.4",
+    "core-js": "^3.29.0",
+    "fbjs": "^3.0.4",
+    "@babel/runtime": "^7.20.0"
   },
   "devDependencies": {
-    "babel-eslint": "6.1.2",
-    "eslint": "3.19.0"
+    "babel-eslint": "^10.1.0",
+    "eslint": "8.19.0"
   }
 }
